@@ -8,10 +8,6 @@ An offline-first Flutter quiz application that turns personal question banks int
 
 QuizMaster is a mobile learning experience for organizing subject-based questions, practicing in short quiz sessions, and reviewing performance over time. The interface brings question import, practice, and progress tracking together in one cohesive app.
 
-![QuizMaster product concept render](images/quizmaster-product-overview.png)
-
-*Illustrative product render for portfolio presentation; this is not a direct capture of the running application.*
-
 ## Features
 
 - Timed daily and weekly quiz sessions, with revision practice
@@ -25,6 +21,22 @@ QuizMaster is a mobile learning experience for organizing subject-based question
 ## Screenshots
 
 Screenshots will be added in a future update.
+
+## Portfolio Concepts
+
+The images below are illustrative portfolio renders, not screenshots or verified captures of the running application.
+
+| Product overview | Practice experience |
+| --- | --- |
+| ![QuizMaster product overview concept](images/quizmaster-overview.png) | ![QuizMaster practice concept](images/quizmaster-practice.png) |
+
+| Import and subject management concept | Progress tracking concept |
+| --- | --- |
+| ![QuizMaster import and subject management concept](images/quizmaster-import-subjects.png) | ![QuizMaster progress tracking concept](images/quizmaster-progress.png) |
+
+| Practice reminders concept |
+| --- |
+| ![QuizMaster practice reminders concept](images/quizmaster-reminders.png) |
 
 ## Tech Stack
 
